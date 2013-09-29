@@ -9,6 +9,7 @@
 
 ```bash
 $ git clone git@github.com:CharlotteGore/component-skeleton.git difference-engine-emulator
+$ cd difference-engine-emulator
 $ git remote rm origin
 $ git remote add origin git@github.com:AdaLovelace/difference-engine-emulator.git
 $ npm install
