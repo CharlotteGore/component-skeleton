@@ -1,0 +1,19 @@
+{
+  "name": "component-skeleton",
+  "version": "0.0.1",
+  "description": "A skeleton component with grunt support",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/charlottegore/component-skeleton"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "template",
+  "license": "MIT",
+  "readmeFilename": "Readme.md"
+}

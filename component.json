@@ -1,0 +1,13 @@
+{
+  "name": "component-skeleton",
+  "repo": "charlottegore/component-skeleton",
+  "description": "Replace this with the description of the module",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
