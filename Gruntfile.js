@@ -30,7 +30,7 @@ module.exports = function(grunt){
 				
 		},
 		watch : {
-			files : ["index.js"],
+			files : ["index.js", "local/*.js"],
 			tasks : ['jshint', 'shell:install', 'shell:build', 'mocha_phantomjs']				
 		}
 	});
