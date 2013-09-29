@@ -1,2 +1,5 @@
+# npm stuff
+node_modules
+# component stuff
 components
 build
