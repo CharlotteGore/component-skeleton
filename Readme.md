@@ -1,4 +1,3 @@
-
 # Component Skeleton
 
   A stub/skeleton project for developing Components. Uses Grunt to run jshint on your source file, install dependencies, build your component and then run tests (using mocha/chai).
@@ -99,7 +98,7 @@ $ grunt jshint
   Watches index.js and when it detects changes it runs jshint, then install, then build then test automatically.
 
  ```bash
-$ grunt jshint
+$ grunt watch
 ```
 
 
