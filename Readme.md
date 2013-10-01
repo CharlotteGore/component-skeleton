@@ -1,6 +1,10 @@
 # Component Skeleton
 
-  A stub/skeleton project for developing Components. Uses Grunt to run jshint on your source file, install dependencies, build your component and then run tests (using mocha/chai).
+  A stub/skeleton project for developing Components. Uses Grunt to run jshint on your source file, install dependencies, build your component and then run tests using mocha-phantomjs with chai.
+
+## PhantomJS
+
+  Hard to say if this step is essential, but I found the test runner only works if PhantomJS is installed, is up to date, and is in your $PATH environment var. This may apply only to windows. 
 
 ## Installation
 
